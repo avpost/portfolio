@@ -5,16 +5,16 @@
 #### By Alex Post
 
 ## Description
-_This webpage portfolio was created to highlight my background and the projects I've been working on._
+_This portfolio was created to highlight my background and the projects I've been working on at Epicodus._
 
 ## Setup/Installation Requirements
 _Visit https://github.com/avpost to view my portfolio through your browser._
 
 ## Known Bugs
-_Not yet published to the internet._
+_N/A_
 
 ## Support and contact details
-_Contact author Alex Post - alexandervpost@gmail.com_
+_ Please contact Alex Post - alexandervpost@gmail.com for any issues._
 
 ## Technologies Used
 _HTML, CSS, Bootstrap, Markdown_
