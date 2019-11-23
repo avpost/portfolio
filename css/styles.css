@@ -1,10 +1,11 @@
 h2 {
   text-decoration: underline;
+  text-align: center;
 }
 
 .jumbotron {
   text-align: center;
-  background-color: lightgreen;
+  background-color: coral;
 }
 
 .panel > .panel-heading {
@@ -22,13 +23,12 @@ div > .panel {
   border: none;
 }
 
-.education {
-  padding-top: 3px;
-  font-weight: bold;
+.well {
+  background-color: lightyellow;
 }
 
-.projects {
-  
+.education {
+  text-align: center;
 }
 
 img {
@@ -36,9 +36,19 @@ img {
   width: auto;
   max-width: 300px; 
   max-height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
-  background-color: lightgreen;
+  background-color: rgb(32, 178, 154);
   font-family: serif;
 }
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+  overflow: auto;
+  width: 1000px; 
