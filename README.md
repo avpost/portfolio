@@ -14,7 +14,7 @@ _Visit https://github.com/avpost to view my portfolio through your browser._
 _N/A_
 
 ## Support and contact details
-_ Please contact Alex Post - alexandervpost@gmail.com for any issues._
+_Please contact Alex Post - alexandervpost@gmail.com for any issues._
 
 ## Technologies Used
 _HTML, CSS, Bootstrap, Markdown_
