@@ -2,8 +2,29 @@ h2 {
   text-decoration: underline;
 }
 
+.jumbotron {
+  text-align: center;
+  background-color: lightgreen;
+}
+
+.panel > .panel-heading {
+  background-color: coral;
+  color: black;
+  border-color: transparent;
+}
+
+div > .panel {
+  border: none;
+}
+
+.panel-body {
+  background-color: lightyellow;
+  border: none;
+}
+
 .education {
-  
+  padding-top: 3px;
+  font-weight: bold;
 }
 
 .projects {
