@@ -8,7 +8,7 @@
 _This portfolio was created to highlight my background and the projects I've been working on at Epicodus._
 
 ## Setup/Installation Requirements
-_Visit https://github.com/avpost to view my portfolio through your browser._
+_Visit https://avpost.github.io/portfolio/ to view my portfolio through your browser._
 
 ## Known Bugs
 _N/A_
