@@ -1,16 +1,19 @@
-h2 {
-  text-decoration: underline;
-  text-align: center;
-}
-
-.thanks {
-  text-align: center;
-  font-size: medium;
-}
-
 .jumbotron {
   background-color: coral;
   text-align: center;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+  overflow: auto;
+  width: 1100px; 
+  background-color: coral;
+}
+
+div > .panel {
+  border: none;
 }
 
 .panel > .panel-heading {
@@ -21,10 +24,6 @@ h2 {
 
 .panel-title {
   font-size: xx-large;
-}
-
-div > .panel {
-  border: none;
 }
 
 .panel-body {
@@ -38,7 +37,13 @@ div > .panel {
   border-style: none;
 }
 
-.education {
+body {
+  background-color: rgb(32, 178, 154);
+  font-family: serif;
+}
+
+h2 {
+  text-decoration: underline;
   text-align: center;
 }
 
@@ -52,21 +57,21 @@ img {
   margin-right: auto;
 }
 
-body {
-  background-color: rgb(32, 178, 154);
-  font-family: serif;
-}
-
-.container {
-  margin-left: auto;
-  margin-right: auto;
-  border: 5px solid black;
-  overflow: auto;
-  width: 1100px; 
-  background-color: coral;
-}
-
   ol {
     text-align: center;
     list-style-position: inside;
+  }
+
+  .epicodus {
+    text-decoration: underline;
+    color: black
+  }
+  
+  .thanks {
+    text-align: center;
+    font-size: medium;
+  }
+  
+  .education {
+    text-align: center;
   }
